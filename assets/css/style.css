@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family:fantasy;
 }
 
 /*--------------------------------------------------------------
@@ -173,7 +173,7 @@ h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  font-family: "Poppins", sans-serif;
+  font-family:fantasy;
 }
 
 #header .logo a {
@@ -219,7 +219,7 @@ h6 {
   color: #2c4964;
   transition: 0.3s;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+  font-family: fantasy;
   padding: 5px 2px;
   border-bottom: 2px solid #fff;
 }
